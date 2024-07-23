@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.mydecisive.ai/">
-    <img src="https://placehold.co/180" alt="MyDecisive.ai logo" height="180">
+    <img src="https://avatars.githubusercontent.com/u/139732403?s=200&v=4" alt="MyDecisive.ai logo" height="180">
   </a>
 </p>
 
