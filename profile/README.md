@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-MyDecisive is ______. Use it to _________
+MyDecisive provides software teams the means of automating and optimizing their business through continual awareness of the ever-changing state and behavior of their systems. Use it to understand and control telemetry data and cost.
 </p>
 
 <p align="center">
