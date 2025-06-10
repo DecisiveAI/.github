@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-MyDecisive provides software teams the means of automating and optimizing their business through continual awareness of the ever-changing state and behavior of their systems. Use it to understand and control telemetry data and cost.
+    <i>
+        “Enterprise-Class OpenTelemetry Made Simple - Transform OTel from a static configuration challenge into an intelligent, self-managing platform. No more rebuilds for reconfigurations or specialized headcount requirements.” 
+    </i>
 </p>
 
 <p align="center">
